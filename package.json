@@ -1,0 +1,14 @@
+{
+  "name": "@cswl/barebones",
+  "version": "0.1.1",
+  "description": "Utilities for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cswl Coldwind",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
