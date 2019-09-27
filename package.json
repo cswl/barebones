@@ -10,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "esm": "^3.2.25"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cswl/barebones.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cswl/barebones/issues"
+  },
+  "homepage": "https://github.com/cswl/barebones#readme"
 }

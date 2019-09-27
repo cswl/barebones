@@ -1,4 +1,5 @@
+// Re-exports everything from modules.
+// So it can be imported as:
+// import { mod } from 'barebones' ;
 
-
-
-export jsonfs from 'modules/jsonfs'
+export *  from 'modules/jsonfs'
