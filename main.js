@@ -2,4 +2,6 @@
 // So it can be imported as:
 // import { mod } from 'barebones' ;
 
-export *  from 'modules/jsonfs'
+import * as jsonfs from './modules/jsonfs'
+
+export { jsonfs }
